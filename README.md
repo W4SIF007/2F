@@ -14,3 +14,13 @@ ls
 cd 2F
 ls
 python 2f.py
+
+IF YOU NEED MULTIPLE TWO FACTOR FILE 
+USE *
+rm -rf 2F
+git clone https://github.com/W4SIF007/2F.git
+ls
+cd 2F
+ls
+python 2f_multiple.py
+
