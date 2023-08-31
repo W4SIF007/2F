@@ -13,5 +13,5 @@ git clone https://github.com/W4SIF007/2F.git
 ls
 cd 2F
 ls
-python multiple.py
+python two_factor.py
 
